@@ -14,6 +14,7 @@
     "@nuxtjs/style-resources": "^0.1.2",
     "node-sass": "^4.12.0",
     "nuxt": "^2.0.0",
+    "rfs": "^8.0.4",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1"
   },

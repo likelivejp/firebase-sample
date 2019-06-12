@@ -39,6 +39,7 @@ export default {
 
   styleResources: {
     scss: [
+      '@node_modules/rfs/scss.scss',
       '~assets/css/var.scss',
     ]
   },
