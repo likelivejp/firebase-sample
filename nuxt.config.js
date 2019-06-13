@@ -23,6 +23,7 @@ export default {
   ** Global CSS
   */
   css: [
+    '~assets/css/bulma.scss',
     '~assets/css/common.scss',
   ],
   /*
