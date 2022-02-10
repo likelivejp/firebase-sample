@@ -13,7 +13,7 @@
   "dependencies": {
     "@nuxtjs/style-resources": "^0.1.2",
     "bulma": "^0.7.5",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.0.0",
     "rfs": "^8.0.4",
     "sass-loader": "^7.1.0",
